@@ -37,6 +37,7 @@ ey...
 将代理信息添加到 proxy.txt 中。每行的格式如下：
 
 http://username:pass@ip:port
+
 ![image](https://github.com/user-attachments/assets/b3a4b3bf-9add-45f8-9b7c-ad52df4ae3ec)
 
 token.txt 里面一个 token 复制三遍，对应三个不同 IP
